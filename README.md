@@ -11,4 +11,4 @@ aperte ctrl + J para abrir o terminal e digite: .\subscribe.py
 
 6 - Se tudo ocorreu bem, ao digitar algo no terminal ao lado da mensagem "Digite uma menssgem para enviar:", mude para o outro terminal PowerShell e verá q foi publicada uma mensagem no tópico
 
-7 - Lembre-se de estar com a porta correta e no broker correto também
+7 - Lembre-se de estar com a porta correta e no broker correto também: port = 1883; broker = "broker.hivemq.com" (no caso dsse código o broker necessita ser esse)
