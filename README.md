@@ -1,4 +1,4 @@
-1 - Instale a biblioteca necessário para utilizar o MQTT, a pho-mqtt, digite no terminal o seguinte código: pip install paho-mqtt
+1 - Instale a biblioteca necessária para utilizar o MQTT, a pho-mqtt, digite no terminal o seguinte código: pip install paho-mqtt
 
 2 - Nos arquivos em python para realizar os testes já possuem a importação dessa biblioteca, porém, se por algum acaso não estiver implementado ou apagou sme querer, a importação é simples: import pho.mqtt.client as mqtt
 
