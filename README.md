@@ -10,3 +10,5 @@ aperte ctrl + J para abrir o terminal e digite: .\subscribe.py
 5 - Digite nesse novo PowerShell o seguinte comando: .\publisher.py
 
 6 - Se tudo ocorreu bem, ao digitar algo no terminal ao lado da mensagem "Digite uma menssgem para enviar:", mude para o outro terminal PowerShell e verá q foi publicada uma mensagem no tópico
+
+7 - Lembre-se de estar com a porta correta e no broker correto também
