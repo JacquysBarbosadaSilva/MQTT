@@ -5,7 +5,7 @@
 3 - Para realizar os teste deve seguir uma ordem de depuração dos códigos(lembranco que os dois arquivos precisam estar no mesmo diretório), inicalmente, o arquivo subscribe.py deve ser inicializado primeiro, 
 aperte ctrl + J para abrir o terminal e digite: .\subscribe.py
 
-4 - No canto superior direito do terminar eciste um símbolo de +, clique nele e crie outro PowerShell, para ficar mais fácil a vizualização dos códigos.
+4 - No canto superior direito do terminal existe um símbolo de +, clique nele e crie outro PowerShell, para ficar mais fácil a vizualização dos códigos.
 
 5 - Digite nesse novo PowerShell o seguinte comando: .\publisher.py
 
