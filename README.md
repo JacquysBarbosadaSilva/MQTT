@@ -1,6 +1,6 @@
 1 - Instale a biblioteca necessária para utilizar o MQTT, a pho-mqtt, digite no terminal o seguinte código: pip install paho-mqtt
 
-2 - Nos arquivos em python para realizar os testes já possuem a importação dessa biblioteca, porém, se por algum acaso não estiver implementado ou apagou sme querer, a importação é simples: import pho.mqtt.client as mqtt
+2 - Nos arquivos em python para realizar os testes já possuem a importação dessa biblioteca, porém, se por algum acaso não estiver implementado ou apagou sme querer, a importação é simples: import paho.mqtt.client as mqtt
 
 3 - Para realizar os teste deve seguir uma ordem de depuração dos códigos(lembranco que os dois arquivos precisam estar no mesmo diretório), inicalmente, o arquivo subscribe.py deve ser inicializado primeiro, 
 aperte ctrl + J para abrir o terminal e digite: .\subscribe.py
